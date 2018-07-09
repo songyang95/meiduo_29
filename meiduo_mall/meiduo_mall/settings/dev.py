@@ -34,6 +34,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['api.meiduo.site', '127.0.0.1', 'localhost', 'www.meiduo.site']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
